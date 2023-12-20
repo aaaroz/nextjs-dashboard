@@ -29,7 +29,7 @@ const MessagesForm = ({ messages, senderEmail }: MessagesFormProps) => {
               </Heading>
               <Text>{messages}</Text>
               <Hr />
-              <Text>The sender's email is : {senderEmail}</Text>
+              <Text>The sender email is : {senderEmail}</Text>
             </Section>
           </Container>
         </Body>
